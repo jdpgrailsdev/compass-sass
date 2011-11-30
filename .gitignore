@@ -1,3 +1,5 @@
 stacktrace.log
 .sass-cache
 /target
+grails*.zip
+plugin.xml
